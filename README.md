@@ -227,4 +227,4 @@ If you want to reproduce it in your environment, below you will find all the ver
 
 This is the end of the first part of the project in which we focused on understanding how Fine-Tuning an AI model works on new data and how to make a generic LLM an expert in a certain area.
 
-Be sure to check out part two: [Deploy with Web System](son)
+Be sure to check out part two: [Deploy with Web System](https://github.com/CoyoteColt/LLM-FineTuning-Pt2?tab=readme-ov-file)
